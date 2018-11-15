@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.deps.json
+/Users/Guest/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.dll
+/Users/Guest/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.pdb
+/Users/Guest/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.AssemblyInfo.cs
+/Users/Guest/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.dll
+/Users/Guest/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.pdb
